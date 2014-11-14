@@ -1,23 +1,28 @@
 {
-  "name": "hubot-shakeshack",
-  "description": "A Hubot script that posts a photo of the Shake Shack cam",
-  "version": "1.0.1",
-  "author": "Desmond Morris <hi@desmondmorris.com>",
+  "name": "hubot-dumbofoodtrucks",
+  "description": "A Hubot script that posts a photo of the Dumbo Food Truck Lot cam",
+  "version": "0.0.1",
+  "authors": [
+    "Desmond Morris <hi@desmondmorris.com>",
+    "Lauren Smith <laurenicolesmith@gmail.com>",
+    "Qunicy Reid <qreid51@gmail.com>"
+  ],
+
   "license": "MIT",
 
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "shakeshack"
+    "dumbofoodtrucks"
   ],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/DoSomething/hubot-shakeshack.git"
+    "url": "git://github.com/attn/hubot-dumbofoodtrucks.git"
   },
 
   "bugs": {
-    "url": "https://github.com/DoSomething/hubot-shakeshack/issues"
+    "url": "https://github.com/attn/hubot-dumbofoodtrucks/issues"
   },
 
   "dependencies": {
