@@ -1,14 +1,19 @@
-# Hubot: Shake Shack
+# Hubot: Dumbo Food Trucks
 
-[![wercker status](https://app.wercker.com/status/70587e68c412e9de76f25266e0896a65 "wercker status")](https://app.wercker.com/project/bykey/70587e68c412e9de76f25266e0896a65)
-
-A Hubot script that posts a photo of the Shake Shack cam
+A Hubot script that posts a photo of the Dumbo Food Truck Lot cam
 
 ## Commands
 
+You can use any of the following commands - they all have the same function.
+
 ```
-hubot shake cam
+hubot nom cam
 ```
 
-## Changelog
-1.0.1 - [Cache Bust](https://github.com/DoSomething/hubot-shakeshack/pull/1) - [slipo](https://github.com/slipo)
+```
+hubot dumbo cam
+```
+
+```
+hubot truck cam
+```
