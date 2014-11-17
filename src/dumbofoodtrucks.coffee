@@ -9,4 +9,4 @@
 
 module.exports = (robot) ->
   robot.respond /(nom|dumbo|truck) cam/i, (msg) ->
-    msg.send 'https://nexusapi.dropcam.com/get_image?uuid=5a6a099c3d894d0284560626c7944d50' + new Date().getTime()
+    msg.send 'https://nexusapi.dropcam.com/get_image?uuid=5a6a099c3d894d0284560626c7944d50&' + new Date().getTime()
