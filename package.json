@@ -2,42 +2,34 @@
   "name": "hubot-dumbofoodtrucks",
   "description": "A Hubot script that posts a photo of the Dumbo Food Truck Lot cam",
   "version": "0.0.1",
-  "authors": [
+  "contributors": [
     "Desmond Morris <hi@desmondmorris.com>",
     "Lauren Smith <laurenicolesmith@gmail.com>",
     "Qunicy Reid <qreid51@gmail.com>"
   ],
-
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts",
     "dumbofoodtrucks"
   ],
-
   "repository": {
     "type": "git",
     "url": "git://github.com/attn/hubot-dumbofoodtrucks.git"
   },
-
   "bugs": {
     "url": "https://github.com/attn/hubot-dumbofoodtrucks/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "script/test"
   }
