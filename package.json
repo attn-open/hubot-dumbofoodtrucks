@@ -1,7 +1,7 @@
 {
   "name": "hubot-dumbofoodtrucks",
   "description": "A Hubot script that posts a photo of the Dumbo Food Truck Lot cam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "contributors": [
     "Desmond Morris <hi@desmondmorris.com>",
     "Lauren Smith <laurenicolesmith@gmail.com>",
